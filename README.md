@@ -15,8 +15,8 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
+1. npm install
+2. npm run dev
 3.  xxxx
 
 #### 参与贡献
